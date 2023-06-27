@@ -48,7 +48,7 @@ include('header.php');
                 <div class="base-inner">
                     <div class="hours">
                         <ul class="clearfix">
-                            <li><span>Mon - Sat</span></li>
+                            <li><span>mon - sat</span></li>
                             <li><span>9am - 7pm</span></li>
                         </ul>
                     </div>
